@@ -11,8 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  signalr_client: any
   cupertino_icons: ^1.0.2
+  dio: ^4.0.6
+  signalr_client: any
+  flutter_secure_storage: any
+  fluttertoast: ^8.0.9
 
 dev_dependencies:
   flutter_test:
